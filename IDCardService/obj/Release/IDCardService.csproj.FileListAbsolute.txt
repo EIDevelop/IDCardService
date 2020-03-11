@@ -1,0 +1,9 @@
+D:\VSProjects\IDCardService\IDCardService\bin\Release\RdCard.dll
+D:\VSProjects\IDCardService\IDCardService\bin\Release\IDCardService.exe
+D:\VSProjects\IDCardService\IDCardService\bin\Release\IDCardService.pdb
+D:\VSProjects\IDCardService\IDCardService\bin\Release\Fleck.dll
+D:\VSProjects\IDCardService\IDCardService\obj\Release\IDCardService.IDCardService.resources
+D:\VSProjects\IDCardService\IDCardService\obj\Release\IDCardService.ProjectInstaller.resources
+D:\VSProjects\IDCardService\IDCardService\obj\Release\IDCardService.csproj.GenerateResource.Cache
+D:\VSProjects\IDCardService\IDCardService\obj\Release\IDCardService.exe
+D:\VSProjects\IDCardService\IDCardService\obj\Release\IDCardService.pdb
